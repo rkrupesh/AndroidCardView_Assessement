@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bc9f12877e618b75c13e30aad007bf25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4abd842a7c52271bd7d9f9e23ebcfbe6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4048cab3b125d0c55a73285b9a976bcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/42e4cbb989eaf22d21cb2ddc91da4c78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/446981a51eda551dddd40e98f0befb44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/316e95d03cf9493686c909f8c780694d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/1a5641cc214348bd34f8ff991985ec38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/9a47b10f4c9753a23336752a021fd8c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e6d6eb189b36362d3fe49c82b014bc08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3f4b64b4977a96d2a7439345a437300/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88d5479ad4f1fa03bcca566ca22ef00d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de0da7d0c7eca35a57057e72f0a68aa2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:6:22-73
+application
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4abd842a7c52271bd7d9f9e23ebcfbe6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4abd842a7c52271bd7d9f9e23ebcfbe6/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:13:9-40
+activity#rupesh.com.assignment.MainActivity
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:configChanges
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:15:13-59
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bc9f12877e618b75c13e30aad007bf25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bc9f12877e618b75c13e30aad007bf25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4abd842a7c52271bd7d9f9e23ebcfbe6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4abd842a7c52271bd7d9f9e23ebcfbe6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4048cab3b125d0c55a73285b9a976bcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4048cab3b125d0c55a73285b9a976bcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/42e4cbb989eaf22d21cb2ddc91da4c78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/42e4cbb989eaf22d21cb2ddc91da4c78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/446981a51eda551dddd40e98f0befb44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/446981a51eda551dddd40e98f0befb44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/316e95d03cf9493686c909f8c780694d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/316e95d03cf9493686c909f8c780694d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/1a5641cc214348bd34f8ff991985ec38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/1a5641cc214348bd34f8ff991985ec38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/9a47b10f4c9753a23336752a021fd8c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/9a47b10f4c9753a23336752a021fd8c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e6d6eb189b36362d3fe49c82b014bc08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e6d6eb189b36362d3fe49c82b014bc08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3f4b64b4977a96d2a7439345a437300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3f4b64b4977a96d2a7439345a437300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88d5479ad4f1fa03bcca566ca22ef00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wipro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/88d5479ad4f1fa03bcca566ca22ef00d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de0da7d0c7eca35a57057e72f0a68aa2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wipro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de0da7d0c7eca35a57057e72f0a68aa2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wipro/Desktop/AndroidAssignment-master/Assignment/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/wipro/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3ad441726bbd76f425ddf586b1cd6f78/AndroidManifest.xml:9:13-64

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="network_status">Please check your network connection</string>
+    <string name="data_not_found">Network data not found</string>
+    <string name="landscape">Application is in Landscape Mode</string>
+    <string name="portrait">Application is in Portrait Mode</string>
+</resources>
